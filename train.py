@@ -15,3 +15,4 @@ regr.fit(np.array(x_train).reshape(-1,1), y_train)
 
 print("training successfully completed")
 joblib.dump(regr,"linear_regrssion.joblib")
+print("trying in piepline")
