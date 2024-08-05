@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/d1f0002bb3c247f59bff8974e4ac83ff/artifacts
+end_time: 1722872827904
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: d1f0002bb3c247f59bff8974e4ac83ff
+run_name: upset-boar-727
+run_uuid: d1f0002bb3c247f59bff8974e4ac83ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722872827189
+status: 3
+tags: []
+user_id: abhishek

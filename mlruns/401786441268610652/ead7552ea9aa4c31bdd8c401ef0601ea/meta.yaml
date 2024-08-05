@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/ead7552ea9aa4c31bdd8c401ef0601ea/artifacts
+end_time: 1722872823820
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: ead7552ea9aa4c31bdd8c401ef0601ea
+run_name: industrious-worm-203
+run_uuid: ead7552ea9aa4c31bdd8c401ef0601ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722872823049
+status: 3
+tags: []
+user_id: abhishek

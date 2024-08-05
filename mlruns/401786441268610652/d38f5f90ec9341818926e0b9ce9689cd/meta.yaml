@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/d38f5f90ec9341818926e0b9ce9689cd/artifacts
+end_time: 1722872848305
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: d38f5f90ec9341818926e0b9ce9689cd
+run_name: gentle-asp-364
+run_uuid: d38f5f90ec9341818926e0b9ce9689cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722872847530
+status: 3
+tags: []
+user_id: abhishek

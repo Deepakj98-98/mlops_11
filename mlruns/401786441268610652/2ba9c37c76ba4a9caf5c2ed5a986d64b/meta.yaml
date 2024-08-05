@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/2ba9c37c76ba4a9caf5c2ed5a986d64b/artifacts
+end_time: 1722872845256
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: 2ba9c37c76ba4a9caf5c2ed5a986d64b
+run_name: shivering-stag-170
+run_uuid: 2ba9c37c76ba4a9caf5c2ed5a986d64b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722872844550
+status: 3
+tags: []
+user_id: abhishek

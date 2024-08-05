@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/4c6e663a828b48f793e92345db8fdea8/artifacts
+end_time: 1722872850831
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: 4c6e663a828b48f793e92345db8fdea8
+run_name: thoughtful-owl-690
+run_uuid: 4c6e663a828b48f793e92345db8fdea8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722872850001
+status: 3
+tags: []
+user_id: abhishek

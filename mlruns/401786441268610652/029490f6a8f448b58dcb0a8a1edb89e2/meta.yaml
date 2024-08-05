@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/029490f6a8f448b58dcb0a8a1edb89e2/artifacts
+end_time: 1722872819120
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: 029490f6a8f448b58dcb0a8a1edb89e2
+run_name: clean-shrimp-159
+run_uuid: 029490f6a8f448b58dcb0a8a1edb89e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722872818361
+status: 3
+tags: []
+user_id: abhishek

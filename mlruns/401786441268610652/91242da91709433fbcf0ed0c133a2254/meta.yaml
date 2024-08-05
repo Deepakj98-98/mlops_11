@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/91242da91709433fbcf0ed0c133a2254/artifacts
+end_time: 1722872835127
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: 91242da91709433fbcf0ed0c133a2254
+run_name: kindly-cub-473
+run_uuid: 91242da91709433fbcf0ed0c133a2254
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722872834366
+status: 3
+tags: []
+user_id: abhishek

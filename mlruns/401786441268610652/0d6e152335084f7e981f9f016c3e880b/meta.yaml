@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/0d6e152335084f7e981f9f016c3e880b/artifacts
+end_time: 1722872830288
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: 0d6e152335084f7e981f9f016c3e880b
+run_name: receptive-kit-719
+run_uuid: 0d6e152335084f7e981f9f016c3e880b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722872829612
+status: 3
+tags: []
+user_id: abhishek

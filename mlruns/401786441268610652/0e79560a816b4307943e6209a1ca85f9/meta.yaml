@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/0e79560a816b4307943e6209a1ca85f9/artifacts
+end_time: 1722872817583
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: 0e79560a816b4307943e6209a1ca85f9
+run_name: big-koi-969
+run_uuid: 0e79560a816b4307943e6209a1ca85f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722872816812
+status: 3
+tags: []
+user_id: abhishek
