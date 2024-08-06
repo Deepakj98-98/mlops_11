@@ -1,0 +1,9 @@
+Flask
+joblib
+numpy
+scikit-learn
+pandas
+dvc==2.45.1
+optuna
+joblib
+mlflow
