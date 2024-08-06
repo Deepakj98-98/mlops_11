@@ -22,6 +22,7 @@ jobs:
         pip --version
         pip install -r train_requirements.txt
         ls -lrt
+        dvc doctor
         dvc remote list
         dvc pull
 
