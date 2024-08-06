@@ -7,7 +7,7 @@ import pandas as pd
 import joblib
 
 # Load the dataset
-housing = pd.read_csv('housing.csv')
+housing = pd.read_csv('./data/housing.csv')
 
 # Define the objective function
 def objective(trial):
