@@ -19,6 +19,7 @@ jobs:
     - name: Train model
       run: |
         python --version
+        pip --version
 
     - name: Set up Docker Buildx
       uses: docker/setup-buildx-action@v1
