@@ -24,7 +24,7 @@ jobs:
         dvc pull
         python train.py
         ls -lrt
-        pip uninstall -r train_requirements.txt
+        pip uninstall -r train_requirements.txt -y
       env:
         GH_TOKEN: ${{ github.token }}
 
