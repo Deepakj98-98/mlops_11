@@ -1,4 +1,4 @@
 [core]
     remote = myremote
 ['remote "myremote"']
-    url = ../temp
+    url = /home/runner/work/mlops_11/mlops_11/temp
