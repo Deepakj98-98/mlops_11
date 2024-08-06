@@ -24,7 +24,7 @@ jobs:
         dvc pull
         python train.py
         ls -lrt
-        sudo rm -r /usr/lib/python3/dist-packages/
+        pip uninstall -r train_requirements.txt
       env:
         GH_TOKEN: ${{ github.token }}
 
