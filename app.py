@@ -5,7 +5,7 @@ import numpy as np
 app = Flask(__name__)
 
 # Load the trapythined model
-model = joblib.load("linear_regrssion.joblib")
+model = joblib.load("linear_regression_best.joblib")
 
 @app.route('/predict', methods=['POST'])
 def predict():
