@@ -8,7 +8,7 @@ WORKDIR /app
 COPY . /app
 
 RUN python -m venv virtual
-RUN virtual/Scripts/activate
+RUN ./virtual/Scripts/activate
 # Install any needed packages specified in requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt
 
