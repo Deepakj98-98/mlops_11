@@ -16,6 +16,12 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
+    - name: Train model
+      run: |
+        python --version
+        pip --version
+        pip install -r train_requirements.txt
+        python train.py
 
     - name: Set up Docker Buildx
       uses: docker/setup-buildx-action@v1
