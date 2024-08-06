@@ -21,10 +21,8 @@ jobs:
         python --version
         pip --version
         pip install -r train_requirements.txt
-        ls -lrt
-        dvc doctor
-        dvc remote list
         dvc pull
+        python train.py
       env:
         GH_TOKEN: ${{ github.token }}
 
