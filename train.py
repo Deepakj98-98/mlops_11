@@ -40,7 +40,7 @@ def objective(trial):
 
 # Create a study object and optimize the objective function
 study = optuna.create_study(direction='minimize')
-study.optimize(objective, n_trials=5)  # You can change the number of trials as needed
+study.optimize(objective, n_trials=50)  # You can change the number of trials as needed
 
 # Print the best hyperparameters
 print("Best hyperparameters: ", study.best_params)
