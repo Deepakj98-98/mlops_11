@@ -28,6 +28,7 @@ jobs:
         python train.py
         ls -lrt
         pip uninstall -r train_requirements.txt -y
+        sudo rm -r /usr/local/lib/python3.8/site-packages/
       env:
         GH_TOKEN: ${{ github.token }}
 
