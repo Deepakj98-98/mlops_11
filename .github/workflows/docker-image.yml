@@ -20,6 +20,9 @@ jobs:
       run: |
         python --version
         pip --version
+        python -m venv virtual
+        ls -lrt
+        . virtual/bin/activate
         pip install -r train_requirements.txt
         dvc pull
         python train.py
