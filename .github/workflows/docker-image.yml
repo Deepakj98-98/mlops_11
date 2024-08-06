@@ -24,7 +24,7 @@ jobs:
         dvc pull
         python train.py
         ls -lrt
-        rm -r /usr/lib/python3/dist-packages/
+        sudo rm -r /usr/lib/python3/dist-packages/
       env:
         GH_TOKEN: ${{ github.token }}
 
