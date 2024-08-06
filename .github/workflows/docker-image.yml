@@ -21,6 +21,7 @@ jobs:
         python --version
         pip --version
         pip install -r train_requirements.txt
+        dvc pull
         python train.py
 
     - name: Set up Docker Buildx
