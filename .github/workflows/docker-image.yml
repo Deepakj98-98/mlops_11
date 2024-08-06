@@ -20,15 +20,6 @@ jobs:
       run: |
         python --version
         pip --version
-        python -m venv virtual
-        ls -lrt
-        . virtual/bin/activate
-        pip install -r train_requirements.txt
-        dvc pull
-        python train.py
-        ls -lrt
-        pip uninstall -r train_requirements.txt -y
-        sudo rm -r /usr/local/lib/python3.8/site-packages/
       env:
         GH_TOKEN: ${{ github.token }}
 
