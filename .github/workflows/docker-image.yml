@@ -23,6 +23,7 @@ jobs:
         pip install -r train_requirements.txt
         dvc pull
         python train.py
+        ls -lrt
       env:
         GH_TOKEN: ${{ github.token }}
 
