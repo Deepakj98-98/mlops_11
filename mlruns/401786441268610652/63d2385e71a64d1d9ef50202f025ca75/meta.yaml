@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/63d2385e71a64d1d9ef50202f025ca75/artifacts
+end_time: 1722954696058
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: 63d2385e71a64d1d9ef50202f025ca75
+run_name: fortunate-shad-797
+run_uuid: 63d2385e71a64d1d9ef50202f025ca75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954695184
+status: 3
+tags: []
+user_id: abhishek

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/3e48bec707ca43e6ab04f8f9a27058e2/artifacts
+end_time: 1722954700676
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: 3e48bec707ca43e6ab04f8f9a27058e2
+run_name: delightful-kit-232
+run_uuid: 3e48bec707ca43e6ab04f8f9a27058e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954699771
+status: 3
+tags: []
+user_id: abhishek

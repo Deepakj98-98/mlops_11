@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/9a0f435b1fd94a589476b9ea7e404590/artifacts
+deleted_time: 1722957163121
 end_time: 1722872849958
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9a0f435b1fd94a589476b9ea7e404590
 run_name: dazzling-asp-233
 run_uuid: 9a0f435b1fd94a589476b9ea7e404590

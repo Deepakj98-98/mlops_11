@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/c9c6307e68d74dc0a00099680927683e/artifacts
+deleted_time: 1722957163169
 end_time: 1722872818351
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: c9c6307e68d74dc0a00099680927683e
 run_name: enchanting-lark-157
 run_uuid: c9c6307e68d74dc0a00099680927683e

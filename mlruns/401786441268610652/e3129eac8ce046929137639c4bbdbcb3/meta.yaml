@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/e3129eac8ce046929137639c4bbdbcb3/artifacts
+end_time: 1722954682029
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: e3129eac8ce046929137639c4bbdbcb3
+run_name: lyrical-boar-954
+run_uuid: e3129eac8ce046929137639c4bbdbcb3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954680727
+status: 3
+tags: []
+user_id: abhishek

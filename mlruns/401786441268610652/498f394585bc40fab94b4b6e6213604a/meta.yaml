@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/498f394585bc40fab94b4b6e6213604a/artifacts
+deleted_time: 1722957163099
+end_time: 1722954327107
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: deleted
+run_id: 498f394585bc40fab94b4b6e6213604a
+run_name: suave-moth-821
+run_uuid: 498f394585bc40fab94b4b6e6213604a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954326217
+status: 3
+tags: []
+user_id: abhishek

@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/85c4b4ff18c04e13aafa9477355b85c3/artifacts
+deleted_time: 1722957163096
+end_time: 1722954331018
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: deleted
+run_id: 85c4b4ff18c04e13aafa9477355b85c3
+run_name: colorful-sponge-40
+run_uuid: 85c4b4ff18c04e13aafa9477355b85c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954330049
+status: 3
+tags: []
+user_id: abhishek

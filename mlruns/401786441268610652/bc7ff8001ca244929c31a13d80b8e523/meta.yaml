@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/bc7ff8001ca244929c31a13d80b8e523/artifacts
+deleted_time: 1722957163020
+end_time: 1722954362590
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: deleted
+run_id: bc7ff8001ca244929c31a13d80b8e523
+run_name: puzzled-fox-882
+run_uuid: bc7ff8001ca244929c31a13d80b8e523
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954361712
+status: 3
+tags: []
+user_id: abhishek

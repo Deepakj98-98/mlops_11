@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/657d885cc941444c81c25fe0dc033918/artifacts
+end_time: 1722954872839
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: 657d885cc941444c81c25fe0dc033918
+run_name: exultant-stork-979
+run_uuid: 657d885cc941444c81c25fe0dc033918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954871961
+status: 3
+tags: []
+user_id: abhishek

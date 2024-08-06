@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/a39f0bca95d148ea9ae7a657031cfaa5/artifacts
+deleted_time: 1722957163095
+end_time: 1722954330001
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: deleted
+run_id: a39f0bca95d148ea9ae7a657031cfaa5
+run_name: calm-bird-376
+run_uuid: a39f0bca95d148ea9ae7a657031cfaa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954328969
+status: 3
+tags: []
+user_id: abhishek

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/e4cf9fd3356248ae8b148991a80e2479/artifacts
+end_time: 1722954717374
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: e4cf9fd3356248ae8b148991a80e2479
+run_name: bustling-eel-491
+run_uuid: e4cf9fd3356248ae8b148991a80e2479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954716580
+status: 3
+tags: []
+user_id: abhishek

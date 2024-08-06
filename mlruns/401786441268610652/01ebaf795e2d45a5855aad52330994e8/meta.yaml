@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/01ebaf795e2d45a5855aad52330994e8/artifacts
+end_time: 1722954864701
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: 01ebaf795e2d45a5855aad52330994e8
+run_name: burly-mare-413
+run_uuid: 01ebaf795e2d45a5855aad52330994e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954863816
+status: 3
+tags: []
+user_id: abhishek

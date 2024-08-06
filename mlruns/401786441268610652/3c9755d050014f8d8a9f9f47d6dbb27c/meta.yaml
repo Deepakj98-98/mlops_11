@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/3c9755d050014f8d8a9f9f47d6dbb27c/artifacts
+end_time: 1722954875615
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: 3c9755d050014f8d8a9f9f47d6dbb27c
+run_name: salty-croc-108
+run_uuid: 3c9755d050014f8d8a9f9f47d6dbb27c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954874733
+status: 3
+tags: []
+user_id: abhishek

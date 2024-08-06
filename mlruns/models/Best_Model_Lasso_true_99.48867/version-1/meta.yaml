@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1722956975027
+current_stage: None
+description: ''
+last_updated_timestamp: 1722956975027
+name: Best_Model_Lasso_true_99.48867
+run_id: d0b688be668c4dd38ce8c4d492470b93
+run_link: ''
+source: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/d0b688be668c4dd38ce8c4d492470b93/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/d0b688be668c4dd38ce8c4d492470b93/artifacts/model
+user_id: null
+version: 1

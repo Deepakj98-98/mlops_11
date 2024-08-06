@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/e778af7be98542429e099c8798097525/artifacts
+deleted_time: 1722957163003
+end_time: 1722954366180
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: deleted
+run_id: e778af7be98542429e099c8798097525
+run_name: agreeable-eel-173
+run_uuid: e778af7be98542429e099c8798097525
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954365311
+status: 3
+tags: []
+user_id: abhishek

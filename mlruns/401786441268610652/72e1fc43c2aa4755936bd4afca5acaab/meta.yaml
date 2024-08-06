@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/72e1fc43c2aa4755936bd4afca5acaab/artifacts
+deleted_time: 1722957163042
+end_time: 1722954353630
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: deleted
+run_id: 72e1fc43c2aa4755936bd4afca5acaab
+run_name: masked-shoat-827
+run_uuid: 72e1fc43c2aa4755936bd4afca5acaab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954352746
+status: 3
+tags: []
+user_id: abhishek

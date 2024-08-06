@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/cafd144a47554011a8f1f57f7648040e/artifacts
+end_time: 1722954711000
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: cafd144a47554011a8f1f57f7648040e
+run_name: charming-hen-804
+run_uuid: cafd144a47554011a8f1f57f7648040e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954710107
+status: 3
+tags: []
+user_id: abhishek

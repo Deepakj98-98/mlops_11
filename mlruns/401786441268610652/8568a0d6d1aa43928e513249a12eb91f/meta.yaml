@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/8568a0d6d1aa43928e513249a12eb91f/artifacts
+deleted_time: 1722957163064
+end_time: 1722954340560
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: deleted
+run_id: 8568a0d6d1aa43928e513249a12eb91f
+run_name: thundering-croc-942
+run_uuid: 8568a0d6d1aa43928e513249a12eb91f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954339393
+status: 3
+tags: []
+user_id: abhishek

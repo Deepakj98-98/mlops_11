@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/abb7522418b2427cbc9786eabe88cfec/artifacts
+end_time: 1722954882908
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: abb7522418b2427cbc9786eabe88cfec
+run_name: calm-mule-551
+run_uuid: abb7522418b2427cbc9786eabe88cfec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954881959
+status: 3
+tags: []
+user_id: abhishek

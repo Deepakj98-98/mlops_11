@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/762acb965fd747579767f3ef6b494832/artifacts
+deleted_time: 1722957163122
 end_time: 1722872849139
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 762acb965fd747579767f3ef6b494832
 run_name: lyrical-flea-872
 run_uuid: 762acb965fd747579767f3ef6b494832

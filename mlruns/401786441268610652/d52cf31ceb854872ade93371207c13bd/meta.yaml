@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/d52cf31ceb854872ade93371207c13bd/artifacts
+deleted_time: 1722957163139
 end_time: 1722872840602
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d52cf31ceb854872ade93371207c13bd
 run_name: learned-worm-958
 run_uuid: d52cf31ceb854872ade93371207c13bd

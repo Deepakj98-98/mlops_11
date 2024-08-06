@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/3660b109889042d08bf45a9c73314e98/artifacts
+end_time: 1722954725287
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: 3660b109889042d08bf45a9c73314e98
+run_name: marvelous-koi-474
+run_uuid: 3660b109889042d08bf45a9c73314e98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954724428
+status: 3
+tags: []
+user_id: abhishek

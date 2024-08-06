@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/47fbe14890f84cc2910f0f709e0d013c/artifacts
+deleted_time: 1722957163153
 end_time: 1722872829601
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 47fbe14890f84cc2910f0f709e0d013c
 run_name: dapper-ram-280
 run_uuid: 47fbe14890f84cc2910f0f709e0d013c

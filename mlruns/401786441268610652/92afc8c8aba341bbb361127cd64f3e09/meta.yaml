@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/92afc8c8aba341bbb361127cd64f3e09/artifacts
+deleted_time: 1722957162998
+end_time: 1722954367970
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: deleted
+run_id: 92afc8c8aba341bbb361127cd64f3e09
+run_name: bald-fowl-382
+run_uuid: 92afc8c8aba341bbb361127cd64f3e09
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954367113
+status: 3
+tags: []
+user_id: abhishek

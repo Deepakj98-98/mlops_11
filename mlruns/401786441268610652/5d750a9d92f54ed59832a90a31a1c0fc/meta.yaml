@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/5d750a9d92f54ed59832a90a31a1c0fc/artifacts
+end_time: 1722954852061
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: 5d750a9d92f54ed59832a90a31a1c0fc
+run_name: unleashed-croc-635
+run_uuid: 5d750a9d92f54ed59832a90a31a1c0fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954851181
+status: 3
+tags: []
+user_id: abhishek

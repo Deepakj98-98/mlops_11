@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/120ceb2eddf54464a82c044e463ec36a/artifacts
+deleted_time: 1722957163110
 end_time: 1722872853885
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 120ceb2eddf54464a82c044e463ec36a
 run_name: capable-cow-935
 run_uuid: 120ceb2eddf54464a82c044e463ec36a

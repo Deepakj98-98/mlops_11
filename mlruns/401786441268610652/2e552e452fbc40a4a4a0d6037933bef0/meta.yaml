@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/2e552e452fbc40a4a4a0d6037933bef0/artifacts
+deleted_time: 1722957163053
+end_time: 1722954347347
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: deleted
+run_id: 2e552e452fbc40a4a4a0d6037933bef0
+run_name: loud-hare-410
+run_uuid: 2e552e452fbc40a4a4a0d6037933bef0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954346475
+status: 3
+tags: []
+user_id: abhishek

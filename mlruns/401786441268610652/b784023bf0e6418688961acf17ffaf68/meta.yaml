@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/b784023bf0e6418688961acf17ffaf68/artifacts
+deleted_time: 1722957163146
 end_time: 1722872835943
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: b784023bf0e6418688961acf17ffaf68
 run_name: masked-mare-141
 run_uuid: b784023bf0e6418688961acf17ffaf68

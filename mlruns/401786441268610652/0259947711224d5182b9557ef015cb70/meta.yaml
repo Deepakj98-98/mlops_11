@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/0259947711224d5182b9557ef015cb70/artifacts
+deleted_time: 1722957163153
 end_time: 1722872831952
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0259947711224d5182b9557ef015cb70
 run_name: bouncy-shad-18
 run_uuid: 0259947711224d5182b9557ef015cb70

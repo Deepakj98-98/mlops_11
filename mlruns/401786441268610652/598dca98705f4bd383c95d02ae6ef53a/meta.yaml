@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/598dca98705f4bd383c95d02ae6ef53a/artifacts
+end_time: 1722954854770
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: 598dca98705f4bd383c95d02ae6ef53a
+run_name: casual-horse-485
+run_uuid: 598dca98705f4bd383c95d02ae6ef53a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954853908
+status: 3
+tags: []
+user_id: abhishek

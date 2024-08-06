@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/9491dfd7a0a14aec90889eb8fb549e1b/artifacts
+deleted_time: 1722957163160
 end_time: 1722872826306
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9491dfd7a0a14aec90889eb8fb549e1b
 run_name: dapper-carp-934
 run_uuid: 9491dfd7a0a14aec90889eb8fb549e1b

@@ -1,0 +1,24 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.14
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.0
+mlflow_version: 2.15.0
+model_size_bytes: 516
+model_uuid: b79b317c0c79476aab7dc68f30abaecb
+run_id: 26c26035b92f424ba5aaf97837a92ad8
+signature:
+  inputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float64", "shape": [-1, 1]}}]'
+  outputs: '[{"type": "double", "name": "median_house_value", "required": true}]'
+  params: null
+utc_time_created: '2024-08-06 14:31:28.042074'

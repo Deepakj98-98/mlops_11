@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/ca8de6ea8c494669b960c09956db1bc4/artifacts
+deleted_time: 1722957163174
 end_time: 1722872816783
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: ca8de6ea8c494669b960c09956db1bc4
 run_name: unruly-duck-193
 run_uuid: ca8de6ea8c494669b960c09956db1bc4

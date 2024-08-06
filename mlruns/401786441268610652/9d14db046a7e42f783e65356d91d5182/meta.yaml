@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/9d14db046a7e42f783e65356d91d5182/artifacts
+deleted_time: 1722957163141
 end_time: 1722872838205
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 9d14db046a7e42f783e65356d91d5182
 run_name: puzzled-crane-158
 run_uuid: 9d14db046a7e42f783e65356d91d5182

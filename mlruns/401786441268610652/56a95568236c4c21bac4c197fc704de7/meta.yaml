@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/56a95568236c4c21bac4c197fc704de7/artifacts
+deleted_time: 1722957163025
+end_time: 1722954360038
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: deleted
+run_id: 56a95568236c4c21bac4c197fc704de7
+run_name: enthused-fawn-715
+run_uuid: 56a95568236c4c21bac4c197fc704de7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954359188
+status: 3
+tags: []
+user_id: abhishek

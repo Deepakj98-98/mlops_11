@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/17bd170812d14751ab67683d5288b64f/artifacts
+end_time: 1722954691646
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: 17bd170812d14751ab67683d5288b64f
+run_name: respected-trout-124
+run_uuid: 17bd170812d14751ab67683d5288b64f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954690792
+status: 3
+tags: []
+user_id: abhishek

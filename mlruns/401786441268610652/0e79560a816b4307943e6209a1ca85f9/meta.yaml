@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/0e79560a816b4307943e6209a1ca85f9/artifacts
+deleted_time: 1722957163174
 end_time: 1722872817583
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 0e79560a816b4307943e6209a1ca85f9
 run_name: big-koi-969
 run_uuid: 0e79560a816b4307943e6209a1ca85f9

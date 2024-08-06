@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/74031733359b49a290881990cb95dc2f/artifacts
+end_time: 1722954702551
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: 74031733359b49a290881990cb95dc2f
+run_name: exultant-hare-287
+run_uuid: 74031733359b49a290881990cb95dc2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954701691
+status: 3
+tags: []
+user_id: abhishek

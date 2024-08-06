@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/71d996452a044ed0bee557a00ebc79f8/artifacts
+deleted_time: 1722957163083
+end_time: 1722954332990
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: deleted
+run_id: 71d996452a044ed0bee557a00ebc79f8
+run_name: bittersweet-mule-601
+run_uuid: 71d996452a044ed0bee557a00ebc79f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954332119
+status: 3
+tags: []
+user_id: abhishek

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/c01924c16a2642b48c2102a85885bee7/artifacts
+end_time: 1722954719057
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: c01924c16a2642b48c2102a85885bee7
+run_name: chill-bug-524
+run_uuid: c01924c16a2642b48c2102a85885bee7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954718273
+status: 3
+tags: []
+user_id: abhishek

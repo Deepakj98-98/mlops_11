@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/1b62687863a14fc1a6546dbed335a2e0/artifacts
+deleted_time: 1722957163139
 end_time: 1722872841372
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 1b62687863a14fc1a6546dbed335a2e0
 run_name: bald-sow-231
 run_uuid: 1b62687863a14fc1a6546dbed335a2e0

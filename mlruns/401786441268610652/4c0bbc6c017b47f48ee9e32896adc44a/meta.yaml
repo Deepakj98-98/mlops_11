@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/4c0bbc6c017b47f48ee9e32896adc44a/artifacts
+deleted_time: 1722957163153
 end_time: 1722872831048
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4c0bbc6c017b47f48ee9e32896adc44a
 run_name: overjoyed-cow-225
 run_uuid: 4c0bbc6c017b47f48ee9e32896adc44a

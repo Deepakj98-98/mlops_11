@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/237c6469d5a24efcb1092f17791689c0/artifacts
+deleted_time: 1722957163068
+end_time: 1722954337638
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: deleted
+run_id: 237c6469d5a24efcb1092f17791689c0
+run_name: rebellious-panda-942
+run_uuid: 237c6469d5a24efcb1092f17791689c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954336791
+status: 3
+tags: []
+user_id: abhishek

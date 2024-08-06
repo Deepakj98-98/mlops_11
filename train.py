@@ -29,7 +29,11 @@ def objective(trial):
 
     # Create and train the model with MLFLow Tracking
     with mlflow.start_run(nested=True):
-        regr = LinearRegression(fit_intercept=fit_intercept)
+        if model_type == 'ridge':
+            regr = Ridge(fit_intercept=fit_intercept, alpha=alpha)
+        else:
+            regr = Lasso(fit_intercept=fit_intercept, alpha=alpha)
+        
         regr.fit(x_train, y_train)
         
         # Predict and calculate MSE
@@ -37,6 +41,8 @@ def objective(trial):
         mse = mean_squared_error(y_test, y_pred)
 
         mlflow.log_params({"fit_intercept":fit_intercept})
+        mlflow.log_params({"model_type":model_type})
+        mlflow.log_params({"alpha":alpha})
         mlflow.log_metric("eval_rmse", mse)
         mlflow.sklearn.log_model(regr,"model",signature=signature)                     
         
@@ -45,20 +51,6 @@ def objective(trial):
 
 mlflow.set_experiment("Housing")
 with mlflow.start_run():
-    
-    # Create and train the model based on the type
-    if model_type == 'ridge':
-        regr = Ridge(fit_intercept=fit_intercept, alpha=alpha)
-    else:
-        regr = Lasso(fit_intercept=fit_intercept, alpha=alpha)
-    
-    regr.fit(x_train, y_train)
-    
-    # Predict and calculate MSE
-    y_pred = regr.predict(x_test)
-    mse = mean_squared_error(y_test, y_pred)
-    
-    return mse
 
     # Create a study object and optimize the objective function
     study = optuna.create_study(direction='minimize')
@@ -79,10 +71,10 @@ with mlflow.start_run():
     x_train = scaler.fit_transform(x_train)
     x_test = scaler.transform(x_test)
     
-if best_params['model_type'] == 'ridge':
-    regr = Ridge(fit_intercept=best_params['fit_intercept'], alpha=best_params['alpha'])
-else:
-    regr = Lasso(fit_intercept=best_params['fit_intercept'], alpha=best_params['alpha'])
+    if best_params['model_type'] == 'ridge':
+        regr = Ridge(fit_intercept=best_params['fit_intercept'], alpha=best_params['alpha'])
+    else:
+        regr = Lasso(fit_intercept=best_params['fit_intercept'], alpha=best_params['alpha'])
 
     regr.fit(x_train, y_train)
 
@@ -90,6 +82,6 @@ else:
 
     mlflow.sklearn.log_model(regr, "model",signature=signature)
 
-# # Save the final model
-# joblib.dump(regr, "linear_regression_best.joblib")
-# print("Training with the best hyperparameters completed and model saved")
+# Save the final model
+joblib.dump(regr, "linear_regression_best.joblib")
+print("Training with the best hyperparameters completed and model saved")

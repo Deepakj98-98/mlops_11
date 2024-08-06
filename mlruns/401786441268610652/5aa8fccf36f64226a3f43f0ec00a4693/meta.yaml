@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/5aa8fccf36f64226a3f43f0ec00a4693/artifacts
+end_time: 1722954722579
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: 5aa8fccf36f64226a3f43f0ec00a4693
+run_name: receptive-deer-495
+run_uuid: 5aa8fccf36f64226a3f43f0ec00a4693
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954721726
+status: 3
+tags: []
+user_id: abhishek

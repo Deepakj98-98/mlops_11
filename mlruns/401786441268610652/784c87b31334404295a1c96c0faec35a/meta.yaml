@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/784c87b31334404295a1c96c0faec35a/artifacts
+deleted_time: 1722957163124
 end_time: 1722872846728
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 784c87b31334404295a1c96c0faec35a
 run_name: trusting-worm-185
 run_uuid: 784c87b31334404295a1c96c0faec35a

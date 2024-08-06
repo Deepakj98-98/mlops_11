@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/3a5ca12f122d465796c77991e413263e/artifacts
+deleted_time: 1722957163125
 end_time: 1722872847490
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3a5ca12f122d465796c77991e413263e
 run_name: judicious-auk-309
 run_uuid: 3a5ca12f122d465796c77991e413263e

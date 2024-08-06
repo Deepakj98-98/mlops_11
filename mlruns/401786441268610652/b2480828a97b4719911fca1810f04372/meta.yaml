@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/b2480828a97b4719911fca1810f04372/artifacts
+deleted_time: 1722957163095
+end_time: 1722954328072
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: deleted
+run_id: b2480828a97b4719911fca1810f04372
+run_name: upbeat-fish-639
+run_uuid: b2480828a97b4719911fca1810f04372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954327151
+status: 3
+tags: []
+user_id: abhishek

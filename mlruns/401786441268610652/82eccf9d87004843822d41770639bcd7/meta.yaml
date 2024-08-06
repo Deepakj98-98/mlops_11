@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/82eccf9d87004843822d41770639bcd7/artifacts
+deleted_time: 1722957163131
 end_time: 1722872846027
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 82eccf9d87004843822d41770639bcd7
 run_name: popular-snake-751
 run_uuid: 82eccf9d87004843822d41770639bcd7

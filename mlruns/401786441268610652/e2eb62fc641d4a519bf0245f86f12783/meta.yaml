@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/e2eb62fc641d4a519bf0245f86f12783/artifacts
+deleted_time: 1722957163154
 end_time: 1722872828689
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e2eb62fc641d4a519bf0245f86f12783
 run_name: mysterious-tern-376
 run_uuid: e2eb62fc641d4a519bf0245f86f12783

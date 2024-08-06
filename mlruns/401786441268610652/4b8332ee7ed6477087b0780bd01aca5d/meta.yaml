@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/4b8332ee7ed6477087b0780bd01aca5d/artifacts
+deleted_time: 1722957163083
+end_time: 1722954332076
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: deleted
+run_id: 4b8332ee7ed6477087b0780bd01aca5d
+run_name: salty-bug-143
+run_uuid: 4b8332ee7ed6477087b0780bd01aca5d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954331057
+status: 3
+tags: []
+user_id: abhishek

@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/4c6e663a828b48f793e92345db8fdea8/artifacts
+deleted_time: 1722957163121
 end_time: 1722872850831
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4c6e663a828b48f793e92345db8fdea8
 run_name: thoughtful-owl-690
 run_uuid: 4c6e663a828b48f793e92345db8fdea8

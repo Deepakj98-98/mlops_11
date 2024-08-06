@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/d88aac5187dd4b7987c9e2be7d4d05ea/artifacts
+end_time: 1722954697839
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: d88aac5187dd4b7987c9e2be7d4d05ea
+run_name: defiant-goat-365
+run_uuid: d88aac5187dd4b7987c9e2be7d4d05ea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954696986
+status: 3
+tags: []
+user_id: abhishek

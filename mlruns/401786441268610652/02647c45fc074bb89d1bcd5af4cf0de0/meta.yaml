@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/02647c45fc074bb89d1bcd5af4cf0de0/artifacts
+deleted_time: 1722957163139
 end_time: 1722872839836
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 02647c45fc074bb89d1bcd5af4cf0de0
 run_name: luxuriant-worm-367
 run_uuid: 02647c45fc074bb89d1bcd5af4cf0de0

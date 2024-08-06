@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/140f08b1c1144147838979cd2575bbe2/artifacts
+deleted_time: 1722957163095
+end_time: 1722954328958
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: deleted
+run_id: 140f08b1c1144147838979cd2575bbe2
+run_name: beautiful-boar-668
+run_uuid: 140f08b1c1144147838979cd2575bbe2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954328084
+status: 3
+tags: []
+user_id: abhishek

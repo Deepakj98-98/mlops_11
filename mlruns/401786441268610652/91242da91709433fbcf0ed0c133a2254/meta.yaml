@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/91242da91709433fbcf0ed0c133a2254/artifacts
+deleted_time: 1722957163146
 end_time: 1722872835127
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 91242da91709433fbcf0ed0c133a2254
 run_name: kindly-cub-473
 run_uuid: 91242da91709433fbcf0ed0c133a2254

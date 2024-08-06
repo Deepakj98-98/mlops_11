@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/5aed87a0b4994b4bad03cea99acf750c/artifacts
+deleted_time: 1722957163018
+end_time: 1722954364315
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: deleted
+run_id: 5aed87a0b4994b4bad03cea99acf750c
+run_name: orderly-mink-296
+run_uuid: 5aed87a0b4994b4bad03cea99acf750c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954363459
+status: 3
+tags: []
+user_id: abhishek

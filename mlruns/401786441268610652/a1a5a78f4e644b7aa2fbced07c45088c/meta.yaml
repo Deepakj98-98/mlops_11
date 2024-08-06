@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/a1a5a78f4e644b7aa2fbced07c45088c/artifacts
+deleted_time: 1722957163162
 end_time: 1722872823037
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: a1a5a78f4e644b7aa2fbced07c45088c
 run_name: abrasive-fawn-731
 run_uuid: a1a5a78f4e644b7aa2fbced07c45088c

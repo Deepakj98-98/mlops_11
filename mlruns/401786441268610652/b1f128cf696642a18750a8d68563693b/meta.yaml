@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/b1f128cf696642a18750a8d68563693b/artifacts
+end_time: 1722954701676
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: b1f128cf696642a18750a8d68563693b
+run_name: unique-dove-923
+run_uuid: b1f128cf696642a18750a8d68563693b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954700733
+status: 3
+tags: []
+user_id: abhishek

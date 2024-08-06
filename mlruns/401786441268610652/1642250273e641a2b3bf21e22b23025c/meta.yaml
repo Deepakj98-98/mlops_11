@@ -1,0 +1,15 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/1642250273e641a2b3bf21e22b23025c/artifacts
+end_time: 1722954684731
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: active
+run_id: 1642250273e641a2b3bf21e22b23025c
+run_name: valuable-hare-694
+run_uuid: 1642250273e641a2b3bf21e22b23025c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954683862
+status: 3
+tags: []
+user_id: abhishek

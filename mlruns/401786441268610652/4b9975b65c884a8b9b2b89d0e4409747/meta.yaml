@@ -1,8 +1,9 @@
 artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/4b9975b65c884a8b9b2b89d0e4409747/artifacts
+deleted_time: 1722957163133
 end_time: 1722872842256
 entry_point_name: ''
 experiment_id: '401786441268610652'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 4b9975b65c884a8b9b2b89d0e4409747
 run_name: sneaky-wren-164
 run_uuid: 4b9975b65c884a8b9b2b89d0e4409747

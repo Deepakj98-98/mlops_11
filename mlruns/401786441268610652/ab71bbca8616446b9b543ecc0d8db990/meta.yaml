@@ -1,0 +1,16 @@
+artifact_uri: file:///home/abhishek/Documents/MLOPS/Code/Assignment/mlops_69/mlruns/401786441268610652/ab71bbca8616446b9b543ecc0d8db990/artifacts
+deleted_time: 1722957163018
+end_time: 1722954363444
+entry_point_name: ''
+experiment_id: '401786441268610652'
+lifecycle_stage: deleted
+run_id: ab71bbca8616446b9b543ecc0d8db990
+run_name: adventurous-sow-620
+run_uuid: ab71bbca8616446b9b543ecc0d8db990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722954362609
+status: 3
+tags: []
+user_id: abhishek
