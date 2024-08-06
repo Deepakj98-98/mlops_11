@@ -7,7 +7,9 @@ import pandas as pd
 import joblib
 
 # Load the dataset
-housing = pd.read_csv('housing.csv')
+housing = pd.read_csv('./data/housing.csv')
+
+print(housing.count())
 
 # Define the objective function
 def objective(trial):
@@ -40,7 +42,7 @@ def objective(trial):
 
 # Create a study object and optimize the objective function
 study = optuna.create_study(direction='minimize')
-study.optimize(objective, n_trials=50)  # You can change the number of trials as needed
+study.optimize(objective, n_trials=5)  # You can change the number of trials as needed
 
 # Print the best hyperparameters
 print("Best hyperparameters: ", study.best_params)
