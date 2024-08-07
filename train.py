@@ -54,7 +54,7 @@ with mlflow.start_run():
 
     # Create a study object and optimize the objective function
     study = optuna.create_study(direction='minimize')
-    study.optimize(objective, n_trials=50)  # You can change the number of trials as needed
+    study.optimize(objective, n_trials=5)  # You can change the number of trials as needed
 
     # Log the best parameters, loss, and model
     mlflow.log_params(study.best_params)
