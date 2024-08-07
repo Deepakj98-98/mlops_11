@@ -7,7 +7,7 @@ WORKDIR /app
 # Copy the current directory contents into the container at /app
 COPY . /app
 
-COPY /home/runner/work/mlops_11/mlops_11/linear_regression_best.joblib linear_regression_best.joblib
+COPY linear_regression_best.joblib ./
 
 RUN pwd
 RUN ls -lrt
