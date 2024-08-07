@@ -8,10 +8,6 @@ import joblib
 import mlflow
 from mlflow.models import infer_signature
 
-# Create an empty SQLite database file if it doesn't exist
-if not os.path.exists('mlflow.db'):
-    open('mlflow.db', 'w').close()
-
 # Set up MLflow configuration
 mlflow.set_tracking_uri('http://localhost:5000')
 # Load the dataset
