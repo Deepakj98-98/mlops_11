@@ -55,7 +55,7 @@ def objective(trial):
         return mse
     
 
-mlflow.set_experiment("Housing")
+mlflow.set_experiment("Housing experiment 5")
 with mlflow.start_run():
 
     # Create a study object and optimize the objective function
