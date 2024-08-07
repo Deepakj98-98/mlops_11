@@ -5,6 +5,8 @@ from sklearn.metrics import mean_squared_error
 from sklearn.preprocessing import StandardScaler
 import pandas as pd
 import joblib
+import mlflow
+from mlflow.models import infer_signature
 
 # Load the dataset
 housing = pd.read_csv('./data/housing.csv')
@@ -23,42 +25,62 @@ def objective(trial):
     scaler = StandardScaler()
     x_train = scaler.fit_transform(x_train)
     x_test = scaler.transform(x_test)
+    signature = infer_signature(x_train, y_train)
+
+    # Create and train the model with MLFLow Tracking
+    with mlflow.start_run(nested=True):
+        if model_type == 'ridge':
+            regr = Ridge(fit_intercept=fit_intercept, alpha=alpha)
+        else:
+            regr = Lasso(fit_intercept=fit_intercept, alpha=alpha)
+        
+        regr.fit(x_train, y_train)
+        
+        # Predict and calculate MSE
+        y_pred = regr.predict(x_test)
+        mse = mean_squared_error(y_test, y_pred)
+
+        mlflow.log_params({"fit_intercept":fit_intercept})
+        mlflow.log_params({"model_type":model_type})
+        mlflow.log_params({"alpha":alpha})
+        mlflow.log_metric("eval_rmse", mse)
+        mlflow.sklearn.log_model(regr,"model",signature=signature)                     
+        
+        return mse
     
-    # Create and train the model based on the type
-    if model_type == 'ridge':
-        regr = Ridge(fit_intercept=fit_intercept, alpha=alpha)
+
+mlflow.set_experiment("Housing")
+with mlflow.start_run():
+
+    # Create a study object and optimize the objective function
+    study = optuna.create_study(direction='minimize')
+    study.optimize(objective, n_trials=50)  # You can change the number of trials as needed
+
+    # Log the best parameters, loss, and model
+    mlflow.log_params(study.best_params)
+    mlflow.log_metric("eval_rmse", study.best_value)
+
+    # Print the best hyperparameters
+    print("Best hyperparameters: ", study.best_params)
+    print("Best MSE: ", study.best_value)
+
+    # Train the final model using the best hyperparameters
+    best_params = study.best_params
+    x_train, x_test, y_train, y_test = train_test_split(housing[['median_income']], housing['median_house_value'], test_size=0.2, random_state=42)
+    scaler = StandardScaler()
+    x_train = scaler.fit_transform(x_train)
+    x_test = scaler.transform(x_test)
+    
+    if best_params['model_type'] == 'ridge':
+        regr = Ridge(fit_intercept=best_params['fit_intercept'], alpha=best_params['alpha'])
     else:
-        regr = Lasso(fit_intercept=fit_intercept, alpha=alpha)
-    
+        regr = Lasso(fit_intercept=best_params['fit_intercept'], alpha=best_params['alpha'])
+
     regr.fit(x_train, y_train)
-    
-    # Predict and calculate MSE
-    y_pred = regr.predict(x_test)
-    mse = mean_squared_error(y_test, y_pred)
-    
-    return mse
 
-# Create a study object and optimize the objective function
-study = optuna.create_study(direction='minimize')
-study.optimize(objective, n_trials=50)  # You can change the number of trials as needed
+    signature = infer_signature(x_train, y_train)
 
-# Print the best hyperparameters
-print("Best hyperparameters: ", study.best_params)
-print("Best MSE: ", study.best_value)
-
-# Train the final model using the best hyperparameters
-best_params = study.best_params
-x_train, x_test, y_train, y_test = train_test_split(housing[['median_income']], housing['median_house_value'], test_size=0.2, random_state=42)
-scaler = StandardScaler()
-x_train = scaler.fit_transform(x_train)
-x_test = scaler.transform(x_test)
-
-if best_params['model_type'] == 'ridge':
-    regr = Ridge(fit_intercept=best_params['fit_intercept'], alpha=best_params['alpha'])
-else:
-    regr = Lasso(fit_intercept=best_params['fit_intercept'], alpha=best_params['alpha'])
-
-regr.fit(x_train, y_train)
+    mlflow.sklearn.log_model(regr, "model",signature=signature)
 
 # Save the final model
 joblib.dump(regr, "linear_regression_best.joblib")
